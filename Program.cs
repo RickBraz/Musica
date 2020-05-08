@@ -7,17 +7,8 @@ namespace Musica
         static void Main(string[] args)
         {
             Console.BackgroundColor = ConsoleColor.Gray;
-            Console.Beep();
-            Console.Beep();
-            Console.Beep();
+           
             Console.ForegroundColor = ConsoleColor.DarkBlue;
-            Console.Beep();
-            Console.Beep();
-            Console.Beep();
-
-            Console.Beep();
-            Console.Beep();
-
             Console.WriteLine("Não Fala Não pra Mim");
             Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine("Lá vai minha saudade beber uns Danone");
